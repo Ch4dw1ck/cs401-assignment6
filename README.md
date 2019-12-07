@@ -6,6 +6,10 @@
 
 ![GitHub Project Screenshot](screenshots/exercise2.png)
 
+![GitHub Project Screenshot](screenshots/collect.png)
+
+![GitHub Project Screenshot](screenshots/result.png)
+
 ### Assignment Instructions
 #### Exercise 1 – Getting Used to JSP
 - a) Write a simple JSP page that prints out a series of consecutive numbers by using a Java loop construction. The output could be for example: 
