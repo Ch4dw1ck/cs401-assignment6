@@ -4,7 +4,7 @@
 ### Screenshots
 ![GitHub Project Screenshot](screenshots/exercise1.png)
 
-![GitHub Project Screenshot](screenshots/exercise1.png)
+![GitHub Project Screenshot](screenshots/exercise2.png)
 
 ### Assignment Instructions
 #### Exercise 1 – Getting Used to JSP
